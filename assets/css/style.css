@@ -1895,9 +1895,9 @@ textarea.form-input::-webkit-resizer { display: none; }
   height: 100%;
   transition: opacity 0.5s ease;
 }
-.image-container:hover img {
+/* .image-container:hover img {
   opacity: 0;
-}
+} */
 .image-container:hover .hover-image {
   opacity: 1;
 }
